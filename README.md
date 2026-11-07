@@ -2,9 +2,7 @@
 
 ## Overview
 
-This repository contains my CPE 010 Data Structures and Algorithms laboratory coursework. It is organized by academic period and includes hands-on activities (HOAs), C++ source and header files, PDFs, seatworks, assignments, and other supporting materials.
-
-The coursework documents my practice applying data structures and algorithms to programming problems using C++.
+This repository contains my CPE 010 Data Structures and Algorithms laboratory coursework. It is organized by academic period and includes hands-on activities (HOAs), C++ source and header files, PDFs, seatworks, assignments, and other supporting materials. The coursework documents my practice applying data structures and algorithms to programming problems using C++.
 
 ## About
 
