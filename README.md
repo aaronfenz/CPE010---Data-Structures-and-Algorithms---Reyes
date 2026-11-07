@@ -2,19 +2,19 @@
 
 ## Overview
 
-This repository contains my CPE 010 Data Structures and Algorithms laboratory coursework, organized by academic period and hands-on activity (HOA). It includes C++ source and header files, activity documents, seatworks, assignments, and supporting materials from the preliminary, midterm, and final periods.
+This repository contains my CPE 010 Data Structures and Algorithms laboratory coursework. It is organized by academic period and includes hands-on activities (HOAs), C++ source and header files, PDFs, seatworks, assignments, and other supporting materials.
 
-The coursework applies data structure and algorithm concepts to programming problems and documents my practice and progress throughout the course.
+The coursework documents my practice applying data structures and algorithms to programming problems using C++.
 
 ## About
 
-CPE 010 is a laboratory course focused on using data structures and algorithms to solve computational and engineering-related problems. The activities in this repository include implementing data structures in C++, testing and analyzing algorithms, and considering how design choices affect program efficiency.
+CPE 010 is a laboratory course focused on designing and implementing algorithms and data structures to solve computational and engineering-related problems. The activities include programming implementations, problem solving, and analysis of algorithm efficiency.
 
 ## Course Description
 
-The course studies data abstractions, data structures, and algorithms that form a foundation for efficient programs. Topics include algorithmic efficiency and complexity, abstract data types, linked lists, stacks, queues, trees, graphs, searching, and sorting.
+The course covers data abstractions, data structures, and algorithms that provide a foundation for writing efficient programs. Topics include algorithmic efficiency and complexity, abstract data types, linked lists, stacks, queues, trees, graphs, searching, and sorting.
 
-Using C++, students design algorithms for different data structures and apply them to programs that solve engineering-related problems. The course also introduces mathematical analysis and practical performance measurement to compare algorithm efficiency.
+Students design algorithms for different data structures and use them to develop C++ programs that address engineering-related problems. The course also introduces mathematical analysis and practical performance measurement to compare algorithm efficiency.
 
 ## Course Outcomes
 
@@ -26,7 +26,7 @@ By the end of the course, students are expected to:
 
 ## Repository Structure
 
-Coursework is grouped into ZIP archives by academic period. Each archive contains folders for its hands-on activities.
+Coursework is organized into ZIP archives by academic period. Each archive contains folders for its hands-on activities.
 
 ```text
 CPE010_PRELIM_REYES.zip
@@ -48,6 +48,9 @@ CPE010_FINAL_REYES.zip
 ├── CPE010_HOA12_REYES/
 ├── CPE010_HOA13_REYES/
 └── CPE010_HOA14_REYES/
+```
+
+Activity folders may contain C++ source files (`.cpp`), header files (`.h`), PDFs, images, and other supporting materials. The contents vary by activity.
 
 ## Topics Per Period
 
@@ -61,23 +64,26 @@ CPE010_FINAL_REYES.zip
 
 ### Midterm Period — HOA6–HOA9
 
-- Searching techniques, including linear and binary search
-- Algorithm complexity and analysis
+- Queues and their array-based and linked-list implementations
+- Searching techniques, including linear search, binary search, and hashing
 - Sorting algorithms
+- Algorithm complexity and analysis
 - Binary search trees and related operations
 
 ### Final Period — HOA10–HOA14
 
-- Graphs and graph representations
-- Trees and tree-based problem solving
-- Search and sorting analysis
-- Algorithm performance measurement and analysis
+- Trees, including general trees, binary search trees, and AVL trees
+- Tree traversal algorithms and tree-based problem solving
+- Graphs, adjacency matrices, and adjacency lists
+- Breadth-first search and depth-first search
+- Algorithm analysis and time complexity
+- Theoretical and experimental methods for measuring performance
 
-The syllabus also covers topics such as hashing, AVL trees, breadth-first search, and depth-first search. The included files vary by activity; refer to each HOA folder for its specific materials.
+The activities included in each archive may cover only some of the topics listed for that period. Refer to the individual activity folders for their specific materials.
 
 ## Applications Used
 
 - **Visual Studio Code (VS Code):** For writing and editing C++ source files.
 - **Dev-C++:** For writing, compiling, and running C++ programs.
 - **GitHub:** For hosting and organizing the repository.
-- **PDF and image viewer:** For viewing supporting documents and images.
+- **PDF and image viewers:** For viewing supporting documents and images.
