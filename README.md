@@ -25,21 +25,37 @@ The coursework is grouped into ZIP archives by period, with activity folders ins
 
 CPE010_CPP_Programming_Laboratory_Repository/
 ├── CPE010_PRELIM_REYES.zip
+
 │   ├── CPE010_HOA1_REYES/
+
 │   ├── CPE010_HOA2_REYES/
+
 │   ├── CPE010_HOA3_REYES/
+
 │   ├── CPE010_HOA4_REYES/
+
 │   └── CPE010_HOA5_REYES/
+
 ├── CPE010_MIDTERM_REYES.zip
+
 │   ├── CPE010_HOA6_REYES/
+
 │   ├── CPE010_HOA7_REYES/
+
 │   ├── CPE010_HOA8_REYES/
+
 │   └── CPE010_HOA9_REYES/
+
 └── CPE010_FINAL_REYES.zip
+
     ├── CPE010_HOA10_REYES/
+    
     ├── CPE010_HOA11_REYES/
+    
     ├── CPE010_HOA12_REYES/
+    
     ├── CPE010_HOA13_REYES/
+    
     └── CPE010_HOA14_REYES/
 
 **Topics Per Period**
