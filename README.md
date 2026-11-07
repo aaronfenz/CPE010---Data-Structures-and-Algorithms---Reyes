@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=header" width="100%">
+</p>
+
+## Student Profile
+
+| **Information** | **Details** |
+|:---|:---|
+| **Student** | Fenzie Aaron A. Reyes |
+| **Institution** | Technological Institute of the Philippines |
+| **Academic Standing** | 2nd Year |
+| **Course** | CPE 010 – Data Structures and Algorithms |
+| **Programming Language** | C++ |
+
 # CPE 010 | C++ Programming Laboratory Repository
 
 ## Overview
@@ -85,3 +99,7 @@ The activities included in each archive may cover only some of the topics listed
 - **Dev-C++:** For writing, compiling, and running C++ programs.
 - **GitHub:** For hosting and organizing the repository.
 - **PDF and image viewers:** For viewing supporting documents and images.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%">
+</p>
