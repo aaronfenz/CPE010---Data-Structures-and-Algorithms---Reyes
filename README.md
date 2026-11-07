@@ -48,3 +48,36 @@ CPE010_FINAL_REYES.zip
 ├── CPE010_HOA12_REYES/
 ├── CPE010_HOA13_REYES/
 └── CPE010_HOA14_REYES/
+
+## Topics Per Period
+
+### Preliminary Period — HOA1–HOA5
+
+- Algorithm design, flowcharts, and pseudocode
+- C++ programming review and introductory problem solving
+- Arrays, pointers, and dynamic memory allocation
+- Linked lists
+- Stacks and queues, including array-based and linked-list implementations
+
+### Midterm Period — HOA6–HOA9
+
+- Searching techniques, including linear and binary search
+- Algorithm complexity and analysis
+- Sorting algorithms
+- Binary search trees and related operations
+
+### Final Period — HOA10–HOA14
+
+- Graphs and graph representations
+- Trees and tree-based problem solving
+- Search and sorting analysis
+- Algorithm performance measurement and analysis
+
+The syllabus also covers topics such as hashing, AVL trees, breadth-first search, and depth-first search. The included files vary by activity; refer to each HOA folder for its specific materials.
+
+## Applications Used
+
+- **Visual Studio Code (VS Code):** For writing and editing C++ source files.
+- **Dev-C++:** For writing, compiling, and running C++ programs.
+- **GitHub:** For hosting and organizing the repository.
+- **PDF and image viewer:** For viewing supporting documents and images.
