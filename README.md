@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=header" width="100%" />
+</p>
 # CPE010 - Data-Structures and Algorithms - Reyes
 
-**Compilation of Hands-On Activities**
+###Compilation of Hands-On Activities
 
 This repository contains my CPE010 Data Structures and Algorithms coursework, organized into preliminary, midterm, and finals activities covering HOA1–HOA14. It documents my practice and progress in designing, implementing, and understanding fundamental algorithms and data structures using C++.
 
@@ -17,3 +20,7 @@ Each activity folder contains the materials associated with its corresponding ex
 | **3.1** | Linked Lists |
 | **4.1** | Stacks |
 | **5.1** | Queues |
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
+</p>
