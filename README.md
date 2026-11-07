@@ -4,7 +4,7 @@
 
 # CPE010 - Data-Structures and Algorithms - Reyes
 
-###Compilation of Hands-On Activities
+### Compilation of Hands-On Activities
 
 This repository contains my CPE010 Data Structures and Algorithms coursework, organized into preliminary, midterm, and finals activities covering HOA1–HOA14. It documents my practice and progress in designing, implementing, and understanding fundamental algorithms and data structures using C++.
 
