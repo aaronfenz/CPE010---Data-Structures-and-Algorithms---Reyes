@@ -41,20 +41,20 @@ By the end of the course, students are expected to:
 Coursework is organized into ZIP archives by academic period. Each archive contains folders for its hands-on activities.
 
 ```text
-CPE010_PRELIM_REYES.zip
+CPE010_PRELIM_REYES
 ├── CPE010_HOA1_REYES/
 ├── CPE010_HOA2_REYES/
 ├── CPE010_HOA3_REYES/
 ├── CPE010_HOA4_REYES/
 └── CPE010_HOA5_REYES/
 
-CPE010_MIDTERM_REYES.zip
+CPE010_MIDTERM_REYES
 ├── CPE010_HOA6_REYES/
 ├── CPE010_HOA7_REYES/
 ├── CPE010_HOA8_REYES/
 └── CPE010_HOA9_REYES/
 
-CPE010_FINAL_REYES.zip
+CPE010_FINAL_REYES
 ├── CPE010_HOA10_REYES/
 ├── CPE010_HOA11_REYES/
 ├── CPE010_HOA12_REYES/
